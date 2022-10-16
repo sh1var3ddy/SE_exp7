@@ -1,0 +1,6 @@
+Subject :Software Enginnering
+Experiment:7c
+Exp Name - Working with Git Commands : Local Repo
+Student Name : Shiva reddy
+CSM-A
+
